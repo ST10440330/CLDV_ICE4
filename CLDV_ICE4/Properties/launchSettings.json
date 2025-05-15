@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CLDV_ICE4": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7116",
+      "launchBrowser": false
+    }
+  }
+}
